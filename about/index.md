@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
 
-I am a biotechnologist driving the digital transformation and new ways of work within Biopharma R&D. I am building on eight years of experience in program management as well as global and cross-functional matrix team leadership within the biopharmaceutical industry. 
+I am a biotechnologist driving the digital transformation and new ways of work within Biopharma R&D. I am building on several years of experience in program management as well as global and cross-functional matrix team leadership within the biopharmaceutical industry. 
 
 ## My current and post roles
 Currently I am working in a global role as Head of Digital Acceleration at Takeda, R&D, Pharmaceutical Sciences with my main office in Vienna & Orth (Austria). I am leading strategic initiatives and projects to deploy our Digital Transformation strategy. I act as translator by identifying requirements, shaping solutions, driving change, and by speaking the language of technology as well as of business, thereby building the bridge between technology and organization for successful implementation.
