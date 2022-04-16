@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Patricia Wildberger, PhD
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+tags: [about]
+date: 2022-04-16
 comments: false
 ---
 
