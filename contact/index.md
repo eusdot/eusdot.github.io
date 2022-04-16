@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Contact
 tags: []
 date: 2022-04-16
 comments: false
