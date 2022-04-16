@@ -9,11 +9,11 @@ comments: false
 
 Accountable for this website:
 
-Patricia Wildberger, PhD
-Vienna
-Austria
+- Patricia Wildberger, PhD
+- Vienna
+- Austria
 
-mail@patriciawildberger.at
+[mail@patriciawildberger.at](mailto:mail@patriciawildberger.at)
 
 ## Reference
 
