@@ -9,7 +9,7 @@
 ## Features
 * Minimal, you can focus on your content
 * Responsive
-* Disqus integration
+* Disqus integration 
 * Syntax highlighting
 * Optional post image
 * Social icons
