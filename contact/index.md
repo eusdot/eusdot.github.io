@@ -19,4 +19,4 @@ mail@patriciawildberger.at
 
 ## Reference
 
-This website is realised with Github Pages[https://pages.github.com/], using the theme TaylanTatli/Moon[https://github.com/TaylanTatli/Moon].
+This website is realised with [Github Pages](https://pages.github.com/), using the theme [TaylanTatli/Moon](https://github.com/TaylanTatli/Moon).
