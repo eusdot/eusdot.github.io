@@ -21,4 +21,4 @@ See my [Google Scholar page](https://scholar.google.at/citations?user=4CsfpfwAAA
 I am very structured and organized with strong analytical skills, a getting-things-done mentality, and a passion for life-long-learning. To get some additional insights into my personality and working style, check out my personality traits: [The Architect](https://www.16personalities.com/intj-personality) (Myers Briggs) and [Reformer](http://www.robpurfieldinsights.com/eight-types/the-reformer-bluered/) (Insights Discovery). 
 
 ## My private life
-In my private life I very much enjoy being with my family, yoga and running. Besides of that I have a strong desire for staying at the pulse of time and like reading, especially around the intersection of technology and society, (agile) leadership as well as (geo)politics.
+In my private life I very much enjoy being with my family, especially outdoors, and running. Besides, I have a strong desire for staying at the pulse of time and like reading, especially around the intersection of technology and society, (agile) leadership as well as (geo)politics.
