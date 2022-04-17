@@ -1,7 +1,7 @@
 ---
 layout: post-list
-title: All Posts
+title: Posts
 excerpt: "A List of Posts"
 comments: false
 ---
-The category „All posts“ is a mingle-mangle of topics that somehow affected or inspired me or are just worth to be summarized to be kept in my memory: Articles or videos that are worth sharing, books that are worth reading, questions that were raised to me in various settings etc.
+The category „Posts“ is a mingle-mangle of topics that somehow affected or inspired me or are just worth to be summarized to be kept in my memory: Articles or videos that are worth sharing, books that are worth reading, questions that were raised to me in various settings etc.
