@@ -25,6 +25,8 @@ Right after leaving academia, I got the chance to lead my first digitalization p
 ### Could I envision to hold another role?
 
 For the time being, no! Working on topics around digital transformation feels like a perfect match for multiple reasons: 
-* It offers a broad spectrum of activities with an ongoing steep learning curve.
+* Staying on top of emerging trends and breaking new grounds is exciting!
+* Seeing real-world evidence and the impact on how digitalisation unfolds is fullfilling.
+* It is an ongoing learning journey with a steep learning curve.
 * It requires technological understanding paired with good understanding on how organizations operate and can be transformed.
-* And I strongly believe that the digital transformation has the potential to make life easier, people happier and the environment healthier.
+* And I strongly believe that the digital transformation has the potential to make life easier, people happier and the environment healthier :-).
