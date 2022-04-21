@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Biography
 tags: [about]
 date: 2022-04-16
 comments: false
