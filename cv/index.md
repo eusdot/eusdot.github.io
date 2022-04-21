@@ -29,7 +29,7 @@ comments: false
 * See [Google Scholar](https://scholar.google.at/citations?user=4CsfpfwAAAAJ&hl=en) for a full list of publications.
 
 ### 2010 - 2013 | PhD in Technical Sciences fro, Graz University of Technology
-* Research focus on enzyme technology, protein engineering and carbohydrate chemistry at Graz University of Technology.
+* Research focus on enzyme technology, protein engineering and carbohydrate chemistry.
 * PhD thesis on ["Shining new light on enzymatic glycosyl and phosphoryl transfer reactions - Mechanistic insights from structure-function studies and new biocatalytic applications for the synthesis of high-value glycosides"](https://diglib.tugraz.at/shining-new-light-on-enzymatic-glycosyl-and-phosphoryl-transfer-reactions-2013) under supervision of [Bernd Nidetzky](https://scholar.google.at/citations?user=MDbsuxIAAAAJ&hl=de).
 * Study visit at Ghent University, Belgium. 
 * Graduation with distinction. 
