@@ -57,7 +57,7 @@ comments: false
 
 ### Remaking Organizations by Beratergruppe Neuwaldegg
 * Issued in May 2021.
-* [Certificate]
+* [Certificate](/2021_Certificate_Neuwaldegg_Patricia-Wildberger.pdf)
 
 ### Digital Transformation by Boston Consulting Group & University of Virgina via Coursera 
 * Issued in December 2020.
