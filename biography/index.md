@@ -44,9 +44,9 @@ comments: false
 * Diploma thesis on "Comparison of the cultivation of S. cerevisiae in microbioreactors and bench-scale fermentors" under supervision of [Krist V. Gernaey](https://scholar.google.com/citations?user=2MOYYQIAAAAJ) during a study visit at the Technical University of Denmark.
 * Graduation with distinction.
 
-------------------------
+## One-pager CV
 
-[One-pager CV (pdf)](/2022_CV_Patricia-Wildberger.pdf)
+Click [here](/2022_CV_Patricia-Wildberger.pdf) to download a one-pager CV (pdf)
 
 ------------------------
 
