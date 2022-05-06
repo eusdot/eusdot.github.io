@@ -24,4 +24,4 @@ In multiple ways. Some examples:
 How did the digital transformation affect businesses?
 In multiple ways as well, new companies have emerged, business models and processes have changed, but with one common pattern: The digital transformation is not just the implementation of technologies. It goes far beyond the simple implementation, it is the end-to-end transformation of business processes.
 
-„The only constant in life is change.“ Heraclitus
+> „The only constant in life is change.“ Heraclitus
