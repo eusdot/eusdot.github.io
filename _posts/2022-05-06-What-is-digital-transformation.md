@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "What is Digital Transformation? How does it affect daily life and business?"
+title: "Thoughts about "Digital Transformation"?"
 date: 2022-05-06
-excerpt: "My professional journey."
+excerpt: "What is Digital Transformation? How does it affect daily life and business?"
 tags: [Professional life]
 feature: http://i.imgur.com/Ds6S7lJ.png
 comments: true
