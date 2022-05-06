@@ -8,7 +8,7 @@ feature: http://i.imgur.com/Ds6S7lJ.png
 comments: true
 ---
 
-**Digital Transformation is not a revolution, it is an evolution. It is an ongoing transformation journey with digital technologies as catalysts that affect all aspects of life.**
+Digital Transformation is not a revolution, it is an evolution. It is an ongoing transformation journey with digital technologies as catalysts that affect all aspects of life.
 
 ### How did the digital transformation affect my daily life?   
 In multiple ways. Some examples:
