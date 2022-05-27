@@ -4,7 +4,7 @@ title: "Thoughts about Digital Transformation - Part 2"
 date: 2022-05-27
 excerpt: "How does it come that „digital transformation“ is such a hot topic nowadays although digital technologies are present in the mainstream since years?"
 tags: [Professional life]
-feature: http://i.imgur.com/Ds6S7lJ.png
+feature: https://www.jakobhuerner.at/images/20210424/tree-2.jpg
 comments: true
 ---
 
