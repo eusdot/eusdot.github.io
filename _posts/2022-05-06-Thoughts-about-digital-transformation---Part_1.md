@@ -4,7 +4,7 @@ title: "Thoughts about Digital Transformation - Part 1"
 date: 2022-05-06
 excerpt: "What is Digital Transformation? How does it affect daily life and business?"
 tags: [DigitalAge]
-feature: https://www.jakobhuerner.at/images/20201230_1/lunzer_see_4.jpg
+feature:
 comments: true
 ---
 
