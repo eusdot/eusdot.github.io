@@ -24,3 +24,5 @@ Generell nehme ich die Diskussion um Nachhaltigkeit ökologisch dominiert wahr; 
     - Ein Hin zu Maß und Schrumpfung in materieller Sicht.
     - Ein Mehr an Kreativität, nicht nur technisch, auch kulturell und sozial.
     - Und Pluralismus: Eine lebendige, intellektuell reichhaltige Debatte, im vollem Bewusstsein, dass es in einer pluralistischen Demokratie keine perfekten Lösungen für alles und jeden gibt.
+
+![Öko-Populismus, Fred Luks, 2014](../assets/img/Book-cover-Oeko-Populismus.jpg)
