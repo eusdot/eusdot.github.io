@@ -10,7 +10,7 @@ comments: true
 
 Am 5. Juni war **Weltumwelttag**, eine gute Gelegenheit um wieder einmal darüber nachzudenken, wie mein Beitrag zum Thema aussieht. Gedanklich bin ich meine Gewohnheiten durchgegangen und habe überlegt, welche Akzente ich im Alltag setze, um „umweltverträglicher“ und „ressourcenschonender“ zu leben. Vegetarische Ernährung, per Öffis und per Pedes durch die Stadt, Reduktion von Autofahrten und Flugreisen, Reduktion im Konsumverhalten etc. Lauter ökologisch dominierte Einzelhandlungen.
 
-Generell nehme ich die Diskussion um Nachhaltigkeit ökologisch dominiert wahr; die soziale und wirtschaftliche Facette ist nur peripher gegeben. Das habe ich als Anlass genommen, um den **Öko-Populismus** von Fred Luks ein zweites Mal zu lesen und das Thema Nachhaltigkeit aus der Sicht eines Ökonomen zu verstehen.
+Generell nehme ich die Diskussion um Nachhaltigkeit ökologisch dominiert wahr; die soziale und wirtschaftliche Facette ist nur peripher gegeben. Das habe ich als Anlass genommen, um den **Öko-Populismus von Fred Luks** ein zweites Mal zu lesen und das Thema Nachhaltigkeit aus der Sicht eines Ökonomen zu verstehen.
 
 ### Was habe ich mir daraus mitgenommen?
 - Eine nachhaltige Entwicklung kann gelingen im Dreiklang von Reduktion, Innovation und Transformation; Reduktion des globalen Ressourcen- und Energieverbrauchs, technische Innovation um mehr Wert aus der Natur zu gewinnen und tiefgreifende gesellschaftliche Veränderungen. 
