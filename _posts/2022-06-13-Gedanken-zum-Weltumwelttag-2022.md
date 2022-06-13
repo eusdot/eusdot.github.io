@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Thoughts about Digital Transformation - Part 2"
-date: 2022-05-27
+title: "Gedanken zum Weltumwelttag 2022"
+date: 2022-06-13
 excerpt: "Die Debatte rund um Nachhaltigkeit wird von ökologischen Themen dominiert, die Themen rund um wirtschaftliche und soziale Nachhaltigkeit nehme ich unterpräsentiert wahr. Grund um den „Öko-Populismus“ von Fred Luks ein weiteres Mal zu lesen: Wie kann Nachhaltigkeit aus der Sicht eines Ökonomen gelingen?"
 tags: [#OneWorldOnly]
 feature: https://www.jakobhuerner.at/images/20201230_1/lunzer_see_4.jpg
