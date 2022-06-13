@@ -4,7 +4,7 @@ title: "My career trajectory - a bumpy journey with multiple twists?"
 date: 2022-04-16
 excerpt: "My professional journey."
 tags: [AboutMe]
-feature: http://i.imgur.com/Ds6S7lJ.png
+feature: https://www.jakobhuerner.at/images/20210104/coffee_1.jpg
 comments: true
 ---
 
