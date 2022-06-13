@@ -3,7 +3,7 @@ layout: post
 title: "My career trajectory - a bumpy journey with multiple twists?"
 date: 2022-04-16
 excerpt: "My professional journey."
-tags: [Professional life]
+tags: [AboutMe]
 feature: http://i.imgur.com/Ds6S7lJ.png
 comments: true
 ---
