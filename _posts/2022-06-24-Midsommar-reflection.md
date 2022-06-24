@@ -3,7 +3,7 @@ layout: post
 title: "Midsommar reflection"
 date: 2022-06-24
 excerpt: "Half of the year 2022 is gone, time to reflect on the progress of my 2022 priorities. What helps me to stay on track? Habits - daily activities that are well incorporated in my daily life."
-tags: [OneWorldOnly]
+tags: [ContinuousLearning]
 feature:
 comments: true
 ---
