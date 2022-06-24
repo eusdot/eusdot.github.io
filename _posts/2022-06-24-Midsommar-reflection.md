@@ -8,7 +8,7 @@ feature:
 comments: true
 ---
 
-**Half of the year 2022 is gone, time to reflect on the progress of my 2022 priorities.** What helps me to stay on track? **Habits** - daily activities that are well incorporated in my daily life.
+**Half of the year 2022 is gone, time to reflect on the progress of my 2022 priorities.** What helps me to stay on track? Habits - daily activities that are well incorporated in my daily life.
 
 A good resource of inspiration for building habits is James Clear‘s book **„Atomic habits“**. I have read the book around one year ago and still come back from time to time to think about my main take-aways from the book:
 
