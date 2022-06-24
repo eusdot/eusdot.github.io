@@ -3,7 +3,7 @@ layout: post
 title: "My career trajectory - a bumpy journey with multiple twists?"
 date: 2022-04-16
 excerpt: "My professional journey."
-tags: [AboutMe]
+tags: [ContinuousLearning]
 feature: https://www.jakobhuerner.at/images/20210104/coffee_1.jpg
 comments: true
 ---
