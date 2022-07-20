@@ -22,4 +22,4 @@ Einen guten Überblick und ein besseres Verständnis was „New Work“ bzw. „
 
 Ein Anstoß um die eigenen Prioritäten zu reflektieren und zu schärfen sowie zu überlegen wie die Zusammenarbeit in Teams produktiver und erfolgreicher werden kann. Und schlussendlich auch eine Anregung darüber nachzudenken wie jede(r) Einzelne einen positiven Beitrag zu den gesellschaftlichen Aufgaben leisten kann. 
 
-![Sweden, 2014](../assets/img/Midsommar-reflection.jpg)
+![Sweden, 2014](../assets/img/NewWork.jpg)
