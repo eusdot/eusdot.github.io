@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Was ist "New Work? Mehr als nur ein Modebegriff?"
+title: "Was ist "New Work"? Mehr als nur ein Modebegriff?"
 date: 2022-07-20
 excerpt: "In unterschiedlichen Kontexten bin ich in letzter Zeit über den Begriff „New Work“ bzw. „Future of Work“ gestolpert, in diesem Zusammenhang auch über „On the way to new work: Wenn Arbeit zu etwas wird, was Menschen stärkt“. Ein recht umfangreiches Werk, aber in seiner Gesamtheit absolut lesenswert."
 tags: [ContinuousLearning]
