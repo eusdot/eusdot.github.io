@@ -10,6 +10,7 @@ comments: true
 
 „If you do not prioritize your life, others will“. A strong and very true statement by **Greg McKeown** in **„Essentialism - the disciplined pursuit of less“** - a very nice holiday audio book with some important take-aways.
 
+
 ### What is it all about?
 A book full of guidelines and practical tips to learn how to distinguish between essentials from non-essentials and how to pursuit the essentials in a disciplined way.
 
