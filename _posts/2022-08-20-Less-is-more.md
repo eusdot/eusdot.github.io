@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Less is more"
-date: 2022-07-20
+date: 2022-08-20
 excerpt: "„If you do not prioritize your life, others will“. A strong and very true statement by Greg McKeown in „Essentialism - the disciplined pursuit of less“ - a very nice holiday audio book with some important take-aways."
 tags: [ContinuousLearning]
 feature:
@@ -25,4 +25,4 @@ Based on this take-away, I have reviewed my priorities and goals and have update
 An important learning is to slow down the decision making process and to commit only to those activities that I have deliberately chosen. In other words, I have to learn to say „no“. This requires courage, courage to overcome the fear of missing out and the fear of disappointing someone. Important in this context is to say „no“ in a polite and graceful way, a good „no-repertoire“ certainly helps.
 
 
-![Sweden, 2014](../assets/img/NewWork.jpg)
+![Sweden, 2014](../assets/img/Less-is-more.jpg)
