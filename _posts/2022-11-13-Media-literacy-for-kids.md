@@ -3,7 +3,7 @@ layout: post
 title: "Media literacy for kids"
 date: 2022-11-13
 excerpt: "I have recently listened to the audio book „Begleiten statt verbieten. Als Familie kompetent und sicher in die digitale Welt“ by Leonie Lutz and Anika Osthoff. It is about how to raise kids in the digital age, how to teach media literacy and how to make kids aware on the opportunities but also risks in navigating through the digital world."
-tags: [ContinuousLearning]
+tags: [DigitalAge]
 feature:
 comments: true
 ---
