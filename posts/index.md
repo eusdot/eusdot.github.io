@@ -1,7 +1,7 @@
 ---
 layout: post-list
-title: Education
-excerpt: "Education & certificates"
+title: Education & Certificates
+excerpt: "Education & Certificates"
 comments: false
 ---
 
