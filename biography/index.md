@@ -6,11 +6,8 @@ date: 2022-04-16
 comments: false
 ---
 
-## Professional Experience
-
 ### Since 2019 | Head of Digital Acceleration at Takeda
-Accelerating pipeline progression by digital transformation and new ways of work by:
-* Leading a team of highly skilled engineers to develop and implement innovative digital solutions within our digital lab.
+* Leading a team of highly skilled engineers to develop and implement innovative digital solutions. Creating the scientific and operational (EHS, Legal, IP) environment to effectively execute digital projects according to a streamlined project management framework.
 * Program management for data and digital projects across the organization thereby enabling knowledge transfer, topic-of-interest discussions and cross-functional opportunities identification.
 
 ### 2016 - 2019 | CMC Program Manager at Takeda 
