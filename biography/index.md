@@ -44,12 +44,6 @@ Accelerating pipeline progression by digital transformation and new ways of work
 
 ------------------------
 
-## One-pager CV
-
-Click [here](/2022_CV_Patricia-Wildberger.pdf) to download a one-pager CV (pdf)
-
-------------------------
-
 ## Certificates
 ### Agile Project Management by Google via Coursera
 * Issued in January 2022.
