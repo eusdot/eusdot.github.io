@@ -10,6 +10,7 @@ I am passionate about technology and its impact on how we live, work and lead. I
 
 ## Current and previous roles
 I consider myself as generalist always eager to learn and develop, and to explore new territories. I consider myself as generalist always eager to learn and develop, and to explore new territories. Currently I am working in a global role as Head of Pharm Sci Digital Transformation at Takeda. 
+
 In this role I am:
 * Leading the digital and data transformation journey across the Pharm Sci organization, ensuring alignment with the overall strategy and priorities and adapting to the ever-evolving technological landscape.
 * Leading the Europe-based Digital Lab team to conceptualize, develop and implement innovative digital solutions that enable digital CMC and transform the ways of working within Pharm Sci.
