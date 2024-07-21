@@ -6,16 +6,16 @@ date: 2022-04-16
 comments: false
 ---
 
-I am passionate about technology and its impact on how we live, work and lead. I am building on >10 years of international experience in different roles in industrial and academic settings.
+I am passionate about guiding organizations and individuals in navigating complexity, embracing change and driving transformations. I am building on >14 years of international experience in different roles in industrial and academic settings.
 
 ## Current and previous roles
-I consider myself as generalist always eager to learn and develop, and to explore new territories. I consider myself as generalist always eager to learn and develop, and to explore new territories. Currently I am working in a global role as Head of Pharm Sci Digital Transformation at Takeda. 
+I consider myself as generalist always eager to learn and develop, and to explore new territories. Currently I am working in a global role as Head of Collective Knowledge at Takeda.
 
 In this role I am:
-* Leading the digital and data transformation journey across the Pharm Sci organization, ensuring alignment with the overall strategy and priorities and adapting to the ever-evolving technological landscape.
-* Leading the Europe-based Digital Lab team to conceptualize, develop and implement innovative digital solutions that enable digital CMC and transform the ways of working within Pharm Sci.
+* Leading the transformation of the organization into a knowledge- and data-driven entity, emphasizing the cultivation of knowledge as critical asset and effective utilization of data for operational efficiency. 
+* Leading a global team of data- and knowledge management professionals, establishing robust systems and processes for collecting, storing, sharing and leveraging tacit and explicit knowledge and deploying data applications for advanced analytics.
 
-Prior to acting within the data and digital space I was leading global drug development and lifecycle programs in virtual settings within a matrix organization with team members spread over Europe, Asia and America. Prior to that I was working on a Viennese based plasma fractionation plant in the team of the plant manager and was assigned to multiple projects and activities around site development, business excellence and production related optimization projects. 
+Prior to this role, I was leading the digital and data transformation journey across the organization as well as the Europe-based Digital Lab team where we have conceptualized, developed and implemented innovative digital solutions to enable digital CMC. Before, I was leading global drug development and lifecycle programs and I was working on a Viennese based plasma fractionation plant in the team of the plant manager and was assigned to multiple projects and activities around site development, business excellence and production related optimization projects. 
 
 ## Background
 I hold a PhD in technical sciences and a MSc in biotechnology and look back to five years of academic research with research stays in Norway, Belgium, and Denmark. My research focus was on enzyme technology, protein engineering and carbohydrate chemistry and resulted in several peer-reviewed articles and one patent. 
