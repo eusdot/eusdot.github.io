@@ -6,7 +6,7 @@ date: 2022-04-16
 comments: false
 ---
 
-I am passionate about guiding organizations and individuals in navigating complexity, embracing change and driving transformations. I am building on >14 years of international experience in different roles in industrial and academic settings.
+I am passionate about guiding organizations and individuals in navigating complexity, embracing change and driving transformations. I am building on >10 years of international experience in different roles in industrial and academic settings.
 
 ## Current and previous roles
 I consider myself as generalist always eager to learn and develop, and to explore new territories. Currently I am working in a global role as Head of Collective Knowledge at Takeda.
