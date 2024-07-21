@@ -6,7 +6,11 @@ date: 2022-04-16
 comments: false
 ---
 
-### Since 2019 | Head of Pharm Sci Digital Transformation at Takeda
+### Since 2024 | Head of Collective Knowledge at Takeda
+* Leading the transformation of the organization into a knowledge- and data-driven entity, emphasizing the cultivation of knowledge as critical asset and effective utilization of data for operational efficiency. 
+* Leading a global team of data- and knowledge management professionals, establishing robust systems and processes for collecting, storing, sharing and leveraging tacit and explicit knowledge and deploying data applications for advanced analytics.
+
+### 2019 - 2024 | Head of Pharm Sci Digital Transformation at Takeda
 * Leading the digital and data transformation journey across the Pharm Sci organization, ensuring alignment with the overall strategy and priorities and adapting to the ever-evolving technological landscape.
 * Leading the Europe-based Digital Lab team to conceptualize, develop and implement innovative digital solutions that enable digital CMC and transform the ways of working within Pharm Sci.
 
