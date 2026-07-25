@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Work
+title: Patricia Wildberger, PhD
 tags: [about]
 date: 2026-07-25
 comments: false
