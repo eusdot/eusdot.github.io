@@ -8,6 +8,8 @@ comments: false
 
 My career has moved in one consistent direction: from technical depth toward systemic impact. From executing programs to designing the conditions in which organisations can change. From science to knowledge to transformation — each step building on the last.
 
+---
+
 ### 2024 – present · Director, Head of Collective Knowledge · Takeda · Vienna
 
 The gap between what an organisation collectively knows and what its people can reliably access is among the most consistently underestimated sources of operational friction — and strategic risk.
@@ -52,8 +54,9 @@ Research in enzyme technology, protein engineering, and carbohydrate chemistry. 
 
 Doctoral research in enzyme technology and biocatalysis. Seven first-author publications, three co-author publications, one patent. Graduation with distinction.
 
-## Education
+---
 
+### Education
 | | |
 |---|---|
 | PhD, Technical Sciences | Graz University of Technology · 2013 · Distinction |
