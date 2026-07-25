@@ -8,8 +8,6 @@ comments: false
 
 I work at the intersection of knowledge, technology, and organisational change. My focus is on translating complex challenges — scientific, technological, human — into solutions that work in practice, at scale, and over time.
 
-Real transformation is slower than the roadmap suggests, more resistant than the pilot indicated, and more human than the technology budget anticipated. The work of the past decade has been learning to hold that complexity with precision — without resolving it prematurely.
-
 ## What I do
 Currently acting as Director and Head of Collective Knowledge at Takeda, a global biopharmaceutical company, I lead the development of knowledge and data capabilities across a global organisation — building the systems, practices, and culture that make knowledge accessible, reusable, and decision-relevant. Prior to this, I led digital transformation across the pharmaceutical sciences organisation, building a digital lab environment and translating emerging technologies into operational reality in a regulated environment.
 
