@@ -57,6 +57,7 @@ Doctoral research in enzyme technology and biocatalysis. Seven first-author publ
 ---
 
 ### Education
+
 | | |
 |---|---|
 | PhD, Technical Sciences | Graz University of Technology · 2013 · Distinction |
