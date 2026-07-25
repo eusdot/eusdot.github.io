@@ -65,5 +65,3 @@ Doctoral research in enzyme technology and biocatalysis. Seven first-author publ
 | DI(FH), Med. & Pharm. Biotechnology | IMC University of Applied Sciences Krems · 2009 · Distinction |
 
 ---
-
----
