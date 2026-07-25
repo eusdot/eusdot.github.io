@@ -1,29 +1,61 @@
 ---
 layout: page
-title: Professional Experience
+title: Work
 tags: [about]
-date: 2022-04-16
+date: 2026-07-25
 comments: false
 ---
 
-### Since 2024 | Head of Collective Knowledge at Takeda
-* Leading the transformation of the organization into a knowledge- and data-driven entity, emphasizing the cultivation of knowledge as critical asset and effective utilization of data for operational efficiency. 
-* Leading a global team of data- and knowledge management professionals, establishing robust systems and processes for collecting, storing, sharing and leveraging tacit and explicit knowledge and deploying data applications for advanced analytics.
+My career has moved in one consistent direction: from technical depth toward systemic impact. From executing programs to designing the conditions in which organisations can change. From science to knowledge to transformation — each step building on the last.
 
-### 2019 - 2024 | Head of Pharm Sci Digital Transformation at Takeda
-* Leading the digital and data transformation journey across the Pharm Sci organization, ensuring alignment with the overall strategy and priorities and adapting to the ever-evolving technological landscape.
-* Leading the Europe-based Digital Lab team to conceptualize, develop and implement innovative digital solutions that enable digital CMC and transform the ways of working within Pharm Sci.
+### 2024 – present · Director, Head of Collective Knowledge · Takeda · Vienna
 
-### 2016 - 2019 | CMC Program Management at Takeda 
-* Leading product teams through the drug development lifecycle (preclinical to commercial) for various disease areas (hematology, oncology, gene therapy) in virtual settings within matrix organizations with team members spread over Europe, Asia and America. 
-* Driving execution of drug development programs by translating product strategy into team goals and milestones. Using project management tools for planning, scheduling and tracking of activities and for achieving a balanced, data-driven and risk-based decision making process. Actively modeling behavior to support the development and maintenance of a high-performance team.
+The gap between what an organisation collectively knows and what its people can reliably access is among the most consistently underestimated sources of operational friction — and strategic risk.
 
-### 2014 - 2016 | Project Management at Octapharma 
-* Leading strategic projects and assignments for the plant manager and production related optimization projects in local, cross-functional teams.
-* Developing and implementing a tailored manufacturing, planning and execution system. 
-* Introducing a PMO methodology at the local site by leveraging the corporate PMO model. 
+This role centres on closing that gap: building structured approaches to make organisational knowledge findable, governed, and reusable; developing and scaling knowledge and data products, including semantic and AI-supported interfaces; and establishing the conditions for data-informed decision-making to become embedded in daily practice.
 
-### 2014 - 2014 | Postdoctoral Research Fellow at Norwegian University of Life Sciences
-* Research focus on enzyme technology, protein engineering and carbohydrate chemistry.
-* See [Google Scholar](https://scholar.google.at/citations?user=4CsfpfwAAAAJ&hl=en) for a full list of publications.
+Leading a global team of 20+ members. Managing significant annual budgets. Representing the organisation externally through conference speaking and industry engagement.
 
+---
+
+### 2019 – 2024 · Head, Pharmaceutical Sciences Digital Transformation · Takeda · Vienna
+
+Digital transformation in a regulated pharmaceutical environment presents a distinct set of constraints. Technical capability is necessary but not sufficient — feasibility must be evaluated alongside regulatory requirements, operational fit, and the organisational conditions required for sustained adoption.
+
+In this role I led digital transformation across the pharmaceutical sciences organisation. I built and operated a digital lab — a structured environment for evaluating emerging technologies and translating selected use cases toward operational readiness. I ran structured proof-of-concept and pilot programmes, assessed feasibility and fit, and designed the path from innovation to scale.
+
+The central insight from this period: technical feasibility is rarely the binding constraint. Organisational readiness — the capacity and willingness of people and systems to absorb change — consistently is.
+
+---
+
+### 2016 – 2019 · CMC Program Manager · Takeda · Vienna
+
+Led global cross-functional product teams through the drug development lifecycle — from preclinical through to commercial — across hematology, oncology, and gene therapy programs. Translated product strategy into team goals and milestones. Operated across matrix organisations spanning Europe, Asia, and the Americas.
+
+This role developed a set of capabilities that have remained foundational: leading without direct authority, aligning stakeholders across cultures and time zones, and maintaining program coherence under conditions of significant ambiguity.
+
+---
+
+### 2014 – 2016 · Project Manager · Octapharma · Vienna
+
+Led strategic projects for the plant manager at a Vienna-based plasma fractionation facility. Designed and implemented a tailored manufacturing planning and execution system. Introduced PMO methodology at site level.
+
+---
+
+### 2014 · Postdoctoral Research Fellow · Norwegian University of Life Sciences · Ås
+
+Research in enzyme technology, protein engineering, and carbohydrate chemistry. Supervised MSc and BSc students.
+
+---
+
+### 2010 – 2013 · PhD Researcher · Graz University of Technology · Graz
+
+Doctoral research in enzyme technology and biocatalysis. Seven first-author publications, three co-author publications, one patent. Graduation with distinction.
+
+## Education
+
+| | |
+|---|---|
+| PhD, Technical Sciences | Graz University of Technology · 2013 · Distinction |
+| MSc, Biotechnology | Graz University of Technology · 2010 · Distinction |
+| DI(FH), Med. & Pharm. Biotechnology | IMC University of Applied Sciences Krems · 2009 · Distinction |
