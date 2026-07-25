@@ -63,3 +63,7 @@ Doctoral research in enzyme technology and biocatalysis. Seven first-author publ
 | PhD, Technical Sciences | Graz University of Technology · 2013 · Distinction |
 | MSc, Biotechnology | Graz University of Technology · 2010 · Distinction |
 | DI(FH), Med. & Pharm. Biotechnology | IMC University of Applied Sciences Krems · 2009 · Distinction |
+
+---
+
+---
