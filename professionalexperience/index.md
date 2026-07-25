@@ -6,7 +6,7 @@ date: 2026-07-25
 comments: false
 ---
 
-My career has moved in one consistent direction: from technical depth toward systemic impact. From executing programs to designing the conditions in which organisations can change. From science to knowledge to transformation — each step building on the last.
+My career has moved from technical depth toward systemic impact, from executing programs to designing the conditions in which organisations can change and from science to knowledge to transformation — each step building on the last.
 
 ---
 
