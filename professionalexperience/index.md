@@ -6,7 +6,7 @@ date: 2026-07-25
 comments: false
 ---
 
-My career has moved from technical depth toward systemic impact, from executing programs to designing the conditions in which organisations can change and from science to knowledge to transformation — each step building on the last.
+My career began in academic research and has moved progressively toward the strategic and organisational level — through program management, digital transformation, and knowledge strategy and -management at global scale. The scientific background has remained relevant throughout, particularly in environments where decisions need to be grounded in evidence and where complexity cannot be managed by simplifying it away.
 
 ---
 
@@ -40,7 +40,7 @@ This role developed a set of capabilities that have remained foundational: leadi
 
 ### 2014 – 2016 · Project Manager · Octapharma · Vienna
 
-Led strategic projects for the plant manager at a Vienna-based plasma fractionation facility. Designed and implemented a tailored manufacturing planning and execution system. Introduced PMO methodology at site level.
+Led strategic projects for the plant manager at a Vienna-based plasma fractionation facility. Designed a tailored tailored manufacturing planning and execution system. Introduced PMO methodology at site level.
 
 ---
 
